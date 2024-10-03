@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Isaac Clark 👋
+
+I've been enjoying software development since the COVID lockdowns of 2020 and 2021. After learning to code through sites such as Codecademy and books from [Jon Duckett](https://www.goodreads.com/author/show/135171.Jon_Duckett), I decided to pursue a degree in [Computing and IT](https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) with the Open University, specialising in software. Having recently finished my degree, I'm on the lookout for for a role in software development, with a particular desire to become a full stack or back-end web developer. If you're hiring, let's chat💬!
+
+- 🔭 I’m currently working on improving my knowledge of data structures, algorithms, TypeScript, React, Python and Java.
+- 🌱 I’m currently learning C# and .NET.
+- 📫 How to reach me: Drop me an email at isaac2001clark@gmail.com
 
 <!--
 **isaacclark1/isaacclark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
