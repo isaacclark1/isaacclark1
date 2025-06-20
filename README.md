@@ -1,6 +1,6 @@
 ## Hi there, I'm Isaac Clark 👋
 
-I'm a software engineer from Haywards Heath, West Sussex. [Contact me @](mailto:isaac2001clark@gmail.com?subject=Hi%20Isaac,%20I%20want%20to%20hire%20you!)
+I'm a software engineer from Haywards Heath, West Sussex. [Contact me](mailto:isaac2001clark@gmail.com?subject=Hi%20Isaac,%20I%20want%20to%20hire%20you!)
 
 <!--
 **isaacclark1/isaacclark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
